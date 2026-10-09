@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="p9bq89uKPsjpExon6f7e">
+    <mxGraphModel dx="911" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DHjAIU7AIo6wqxPIifE3-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=280;height=60;" value="Sistem Informasi Peminjaman dan Pengembalian Peralatan Laboratorium&lt;br/&gt;Kampus" vertex="1">
+          <mxGeometry height="520" width="440" x="200" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="DHjAIU7AIo6wqxPIifE3-9" parent="DHjAIU7AIo6wqxPIifE3-1" style="ellipse;html=1;whiteSpace=wrap;" value="Lihat&lt;div&gt;Ketersediaan&lt;/div&gt;&lt;div&gt;Peralatan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62.5" width="125" x="30" y="228.75" as="geometry" />
+        </mxCell>
+        <mxCell id="DHjAIU7AIo6wqxPIifE3-10" parent="DHjAIU7AIo6wqxPIifE3-1" style="ellipse;html=1;whiteSpace=wrap;" value="Kelola data&lt;div&gt;peralatan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62.5" width="125" x="280" y="228.75" as="geometry" />
+        </mxCell>
+        <mxCell id="DHjAIU7AIo6wqxPIifE3-13" edge="1" parent="1" source="DHjAIU7AIo6wqxPIifE3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="DHjAIU7AIo6wqxPIifE3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DHjAIU7AIo6wqxPIifE3-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="80" width="40" x="120" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="DHjAIU7AIo6wqxPIifE3-15" edge="1" parent="1" source="DHjAIU7AIo6wqxPIifE3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="DHjAIU7AIo6wqxPIifE3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DHjAIU7AIo6wqxPIifE3-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Petugas&lt;div&gt;Laboran&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="40" x="680" y="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
