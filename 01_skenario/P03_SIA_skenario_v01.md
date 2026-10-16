@@ -34,11 +34,13 @@ Batas dan asumsi:
 |  Wali_Dosen  |                  Memproses Keputusan                  |
 
 <!-- Tabel Susuna Katalog use Case -->
-ID Nama_use_case Peran_dalam_model
-SIA-R03 Ajukan_KRS Fungsi Utama Mahasiswa
-SIA-R01 Lihat_Jadwal_Kuliah Fungsi Utama Mahasiswa
-SIA-R05 Unduh_Bukti Perilaku yang disertakan R03
-SIA-R02 Kelola_Jadwal_Kuliah Fungsi Utama Admin Akademik
+|  ID   |   Nama_use_case    |      Peran_dalam_model      |
+|-------|--------------------|-----------------------------|
+|SIA-R03|     Ajukan_KRS     |   Fungsi Utama Mahasiswa    |
+|SIA-R01|Lihat_Jadwal_Kuliah |   Fungsi Utama Mahasiswa    |
+|SIA-R05|    Unduh_Bukti     |Perilaku yang disertakan R03 |
+|SIA-R02|Kelola_Jadwal_Kuliah| Fungsi Utama Admin Akademik |
+|SIA-R06|Proses_Keputusan_KRS|   Fungsi Utama Dosen Wali   |
 
 <!-- Relasi Include -->
 
